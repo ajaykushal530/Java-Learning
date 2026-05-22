@@ -17,9 +17,9 @@ Imagine we want to print a name 100 times, without a LOOP, we have to write -
 
 ```java
 
-System.out.println("Athira");
-System.out.println("Athira");
-System.out.println("Athira");
+System.out.println("Java");
+System.out.println("Java");
+System.out.println("Java");
 
 // ... and so on, 100 times             Very lengthy and hard to maintain!
 
